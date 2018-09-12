@@ -1,1 +1,4 @@
+# Ignore Jetbrains folder
+.idea/
+#
 node_modules/
